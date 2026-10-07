@@ -46,7 +46,7 @@
 | Tim Hecker Harmony In Ultraviolet | ![](https://i.scdn.co/image/ab67616d0000b273118fa1e84461646441f1343e) | |
 | Paramore This Is Why | ![](https://i.scdn.co/image/ab67616d0000b27305f425b3ea2d3609d2d8b962) | |
 | Arooj Aftab Vulture Prince | ![](https://i.scdn.co/image/ab67616d0000b273fd247739c6b3bb01aec1c689) | |
-| Anna B Savage in|FLUX | ![](https://i.scdn.co/image/ab67616d0000b27318d39ff337a17b1a4d34c870) | |
+| Anna B Savage in\|FLUX | ![](https://i.scdn.co/image/ab67616d0000b27318d39ff337a17b1a4d34c870) | |
 | Camille Le Fil | ![](https://i.scdn.co/image/ab67616d0000b27314c3c1cbd258282ea6fce609) | |
 | Algiers Shook | ![](https://i.scdn.co/image/ab67616d0000b273315f29533fe72792c9aa2993) | |
 | Colleen The Golden Morning Breaks | ![](https://i.scdn.co/image/ab67616d0000b273bdf72f4b55ecc8254688990b) | |
